@@ -1,9 +1,9 @@
-This project was realised by Theodora Mihailescu and Andrei Buzica.
+Ce projet a été realisé par Theodora Mihailescu et Andrei Buzica.
 
-The presented work is not ours, rather it is based on the work of Paul A. Gagniuc et al. Spectral forecast: A general purpose prediction model as an alternative to classical neural networks. Chaos 30, 033119 (2020); doi: 10.1063/1.5120818.
+Le travail présenté n'est pas le nôtre, il est plutôt basé sur le travail de Paul A. Gagniuc et de Prévisions spectrales: un modèle de prédiction à usage général comme alternative aux réseaux neuronaux classiques.
 
-The corresponding article can be found [here](https://aip.scitation.org/doi/full/10.1063/1.5120818).
+L'article correspodent peut etre trouvé [ici](https://aip.scitation.org/doi/full/10.1063/1.5120818).
 
-This project gets input 3 matrices, A,B and P, and computes a 3D matrix of prediction, M. Then, it compares each layer of M with the matrix P and outputs a similarity index.
+Ce projet obtient 3 matrices d'entrée, A, B et P, et calcule une matrice de prédiction 3D, M. Ensuite, il compare chaque couche de M avec la matrice P et génère un indice de similitude.
 
-The similarity index is displayed in an output file: output.txt. 
+L'index de similitude est affiché dans un fichier de sortie: output.txt.
